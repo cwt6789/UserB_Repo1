@@ -1,5 +1,11 @@
 Colton is amazing
 Murad is your Friend!
+<<<<<<< HEAD
 
 
 always raise with A5
+=======
+I am forced to make changes here
+
+More chnages Here!
+>>>>>>> 9068548ad9f523166365a318b201682f203b6e1d

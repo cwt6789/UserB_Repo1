@@ -7,5 +7,9 @@ always raise with A5
 =======
 I am forced to make changes here
 
+<<<<<<< HEAD
 More chnages Here!
 >>>>>>> 9068548ad9f523166365a318b201682f203b6e1d
+=======
+More chnages Here! and there
+>>>>>>> 3997347c5bd8e10d029fd49402733fdb32b7465b
